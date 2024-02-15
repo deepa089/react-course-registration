@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/ydspybp/kelly-sikkema-1-RZL8-BGBM-unsplash.jpg",
+      "course_name": "Introduction to JavaScript",
+      "course_details": "Learn the fundamentals of JavaScript programming language.",
+      "price": 49.99,
+      "credit": 3
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/RC1qCXm/alex-lvrs-2z-Dw14y-CYqk-unsplash.jpg",
+      "course_name": "Web Development with React",
+      "course_details": "Build modern web applications using React.js library.",
+      "price": 79.99,
+      "credit": 5
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/K7XMsfN/inaki-del-olmo-NIJu-EQw0-RKg-unsplash.jpg",
+      "course_name": "Python for Data Science",
+      "course_details": "Learn Python programming for data analysis and machine learning.",
+      "price": 59.99,
+      "credit": 4
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/X86dwWF/siora-photography-Zsl-FOaqz-ERU-unsplash.jpg",
+      "course_name": "Java Programming Basics",
+      "course_details": "Get started with Java programming language and object-oriented concepts.",
+      "price": 69.99,
+      "credit": 4
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/6vJ68Ff/tamanna-rumee-Ft-JEat-S7-Q4-unsplash.jpg",
+        "course_name": "HTML5 and CSS3 Fundamentals",
+        "course_details": "Learn the basics of HTML5 and CSS3 for web development.",
+        "price": 39.99,
+        "credit": 2
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/PjB1Wjf/elisa-calvet-b-S3n-UOq-Dm-Uvc-unsplash.jpg",
+        "course_name": "Introduction to Node.js",
+        "course_details": "Get started with server-side JavaScript development using Node.js.",
+        "price": 49.99,
+        "credit": 3
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/wrhL2R2/alexander-grey-O2u6g-A2es-AI-unsplash.jpg",
+        "course_name": "Data Structures and Algorithms",
+        "course_details": "Learn essential data structures and algorithms for programming interviews.",
+        "price": 59.99,
+        "credit": 4
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/DQRLpCm/tim-mossholder-WE-Kv-ZB1l0-unsplash.jpg",
+        "course_name": "React Native Mobile App Development",
+        "course_details": "Build cross-platform mobile apps using React Native framework.",
+        "price": 89.99,
+        "credit": 6
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/D1zcp5w/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+        "course_name": "Introduction to Machine Learning",
+        "course_details": "Explore the basics of machine learning algorithms and techniques.",
+        "price": 69.99,
+        "credit": 4
+      },
+      {
+        "id": 10,
+        "img": "https://i.ibb.co/6gXrkkY/kimberly-farmer-l-Uaa-KCUANVI-unsplash.jpg",
+        "course_name": "Responsive Web Design",
+        "course_details": "Master the art of creating responsive web designs with HTML, CSS, and JavaScript.",
+        "price": 49.99,
+        "credit": 3
+      }
+  ]
+  

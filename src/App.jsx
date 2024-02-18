@@ -1,25 +1,20 @@
-import { useEffect, useState } from 'react'
 import './App.css'
+import Bookmarks from './components/Bookmarks/Bookmarks';
 import Courses from './components/Courses/Courses';
 
 function App() {
   // const [count, setCount] = useState(0)
-  const [courses, setCourses] = useState([])
-  useEffect( () => {
-      fetch('coourses.json')
-      .then(res => res.json())
-      .then(data => setCourses(data))
-  });
+  
 
 
 
   return (
-    <div className='bg-slate-200'>
+    <div className='bg-slate-100'>
         <h1 className='text-center'>Course Registration</h1>
-        <div className='w-3/4'>
-            <Courses coursesList={courses}></Courses>
+        <div className='flex mx-8'>
+          <Courses></Courses>
+          <Bookmarks></Bookmarks>
         </div>
-        <div className='w-1/4'></div>
     </div>
   )
 }

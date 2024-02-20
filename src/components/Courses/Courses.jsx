@@ -11,7 +11,7 @@ const Courses = () => {
         .then(data => setCourses(data))
     },[]);
     return (
-        <div className="w-3/4">
+        <div className="w-3/4 grid grid-cols-3">
             {
                 coursesList.map((cl,idx) => <Course key={idx} course={cl}></Course> )
             }

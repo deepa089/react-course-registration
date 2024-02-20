@@ -11,7 +11,7 @@ function App() {
   return (
     <div className='bg-slate-100'>
         <h1 className='text-center'>Course Registration</h1>
-        <div className='flex mx-8'>
+        <div className='flex flex-row mx-8 md:flex-row'>
           <Courses></Courses>
           <Bookmarks></Bookmarks>
         </div>

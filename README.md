@@ -21,3 +21,6 @@ https://react-icons.github.io/react-icons/search/#q=doll
 
 # use component through daisy UI
 https://daisyui.com/docs/install/
+
+#install propTypes and how to use it 
+https://www.npmjs.com/package/prop-types
